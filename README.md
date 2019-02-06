@@ -3,7 +3,7 @@
 + Production URL: <http://p1.yourdomain.com>
 
 ## Outside resources
-None.
++ Ice cream image from [seriouseats.com No-Churn Vanilla Ice Cream Recipe](No-Churn Vanilla Ice Cream Recipe)
 
 ## Notes for instructor
 None.
